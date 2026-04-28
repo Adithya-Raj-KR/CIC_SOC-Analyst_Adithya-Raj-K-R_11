@@ -1,6 +1,5 @@
 # Day 11  
-## MITRE ATT&CK Framework (Advanced)  
-
+## MITRE ATT&CK Framework 
 ---
 
 ##  Objective  
